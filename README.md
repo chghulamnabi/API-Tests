@@ -1,4 +1,4 @@
-## API Automation Demo (World-class)
+## API Automation Demo
 
 A production-quality API automation testing template featuring async HTTP client, robust retries, validation with Pydantic, clean configuration, and rich HTML reporting. Uses JSONPlaceholder for demo CRUD endpoints.
 
