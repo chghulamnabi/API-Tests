@@ -62,4 +62,3 @@ reports/           # pytest-html output (created on test run)
 Troubleshooting:
 - Ensure you run commands from the project root.
 - If networking is restricted, GET/POST/PUT/DELETE to the public demo API may fail; try later or point `API_BASE_URL` to a reachable mock server.
-# API-Tests
